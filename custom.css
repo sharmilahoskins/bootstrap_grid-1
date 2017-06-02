@@ -1,0 +1,10 @@
+.jumbotron{
+  text-align: center;
+}
+input{
+  height: 200px;
+  width: 200px;
+}
+p{
+  font-size: 20pt;
+}
